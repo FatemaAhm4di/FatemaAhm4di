@@ -3,11 +3,11 @@
   <img src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,github,ps,ai,pr,ae,figma,xd'/>
   <h1>My Social Network</h1>
   <a href="https://www.linkedin.com/in/%EA%9C%B0%E1%B4%80%E1%B4%9B%E1%B4%87%E1%B4%8D%E1%B4%80-%E1%B4%80%CA%9C%E1%B4%8D%E1%B4%80%E1%B4%85%C9%AA-a0a749339" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=auto" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/_Fatema_Ahmadi_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/_fatem4_" target="_blank">
@@ -16,6 +16,10 @@
 
 <a href="https://t.me/Fatema_Ahm4di" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://wa.me/93799798302" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
 
