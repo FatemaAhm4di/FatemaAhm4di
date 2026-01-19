@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://t.me/Fatema_Ahm4di" target="_blank">
+<a href="https://t.me/Fatemah_Ahmadi" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://wa.me/93799798302" target="_blank">
+<a href="https://wa.me/93705251325" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
