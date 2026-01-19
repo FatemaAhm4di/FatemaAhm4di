@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>My Expperience:</h1>
-  <img src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,github,ps,ai,pr,ae,figma,xd'/>
+  <img src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,github,ps,ai,figma,xd'/>
   <h1>My Social Network</h1>
   <a href="https://www.linkedin.com/in/%EA%9C%B0%E1%B4%80%E1%B4%9B%E1%B4%87%E1%B4%8D%E1%B4%80-%E1%B4%80%CA%9C%E1%B4%8D%E1%B4%80%E1%B4%85%C9%AA-a0a749339" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
