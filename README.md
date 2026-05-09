@@ -85,7 +85,7 @@ const Fatema = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://nextcart-wine.vercel.app" target="_blank">
+  <a href="https://fatemaahm4di.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
