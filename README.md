@@ -24,13 +24,13 @@ const Fatema = {
 ```
 🛠 Tech Stack
 <div align="center">
-💻 Frontend
+💻 Frontend:
   
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-🎨 Design & Tools
+🎨 Design & Tools:
 
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,github,vscode" /></div>
-📊 GitHub Stats
+📊 GitHub Stats:
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FatemaAhm4di&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F13E93&icon_color=F13E93" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemaAhm4di&theme=radical&hide_border=true&background=0D1117&stroke=F13E93&ring=F13E93&fire=F13E93" width="48%" /></div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhm4di&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F13E93" width="40%" /></div>
 🌐 Let's Connect
