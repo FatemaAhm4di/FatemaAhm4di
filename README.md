@@ -29,7 +29,7 @@ const Fatema = {
 
 <div align="center">
   
-  **💻 Frontend**
+  **💻 Front-End**
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
   
