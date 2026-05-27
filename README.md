@@ -81,7 +81,7 @@ const Fatema = {
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph:
 
 <div align="center">
   
