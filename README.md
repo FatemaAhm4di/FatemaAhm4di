@@ -25,15 +25,15 @@ const Fatema = {
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 <div align="center">
   
-  **💻 Front-End**
+  **💻 Front-End**:
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
   
-  **🎨 Design & Tools**
+  **🎨 Design & Tools**:
   
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,github,vscode" />
   
