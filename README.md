@@ -25,7 +25,7 @@ const Fatema = {
 
 ---
 
-## 🛠 Tech Stack:
+## 🛠 Tech Stack :-
 
 <div align="center">
   
@@ -33,7 +33,7 @@ const Fatema = {
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
   
-  **🎨 Design & Tools**:-
+  **🎨 Design & Tools** :-
   
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,github,vscode" />
   
@@ -41,7 +41,7 @@ const Fatema = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :-
 
 <div align="center">
   
