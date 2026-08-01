@@ -18,7 +18,7 @@ const Fatema = {
   role: "Frontend Developer | UI/UX & Graphic Designer | Data Analysis",
   location: "Herat, Afghanistan",
   passions: ["Clean Code", "UI/UX", "Problem Solving"],
-  currentlyLearning: "Next.js & TypeScript",
+  currentlyLearning: "Back-end & Data Analyst",
   funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
