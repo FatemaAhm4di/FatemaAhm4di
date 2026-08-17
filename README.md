@@ -19,7 +19,7 @@ const Fatema = {
   location: "Herat, Afghanistan",
   passions: ["Clean Code", "UI/UX", "Problem Solving"],
   currentlyLearning: "Back-end & Data Analyst",
-  funFact: "I turn coffee into code ☕ → 💻"
+  funFact: "Don't Care"
 };
 ```
 
