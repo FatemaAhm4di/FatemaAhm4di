@@ -42,7 +42,7 @@ const Fatema = {
 
 **🎨 Design & Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode" />
 
 **📊 Data & Analytics**
 
