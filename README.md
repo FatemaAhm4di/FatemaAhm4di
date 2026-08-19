@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fatema%20Ahmadi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20Data%20Analyst%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fatema%20Ahmadi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F13E93&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Data+Analyst;UI%2FUX+%26+Graphic+Designer;Building+things+that+matter+%F0%9F%87%A6%F0%9F%87%AB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F13E93&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Data+Analyst;Building+things+that+matter+%F0%9F%87%A6%F0%9F%87%AB" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=FatemaAhm4di&label=Profile%20Views&color=F13E93&style=flat" />
@@ -17,7 +17,7 @@
 
 ```javascript
 const Fatema = {
-  role: "Frontend Engineer | Data Analyst | UI/UX Designer",
+  role: "Frontend Engineer | Data Analyst",
   location: "Herat, Afghanistan 🇦🇫",
   stack: ["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
   passions: ["Clean Code", "Meaningful UI", "Problem Solving"],
@@ -47,32 +47,8 @@ const Fatema = {
 **📊 Data & Analytics**
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FatemaAhm4di&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F13E93&icon_color=F13E93&text_color=ffffff" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemaAhm4di&theme=radical&hide_border=true&background=0D1117&stroke=F13E93&ring=F13E93&fire=F13E93&currStreakLabel=F13E93" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhm4di&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F13E93&text_color=ffffff" width="40%" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FatemaAhm4di&bg_color=0D1117&color=F13E93&line=F13E93&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
