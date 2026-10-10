@@ -15,16 +15,14 @@
 
 ## 🧠 About Me
 
-```javascript
-const Fatema = {
-  role: "Frontend Engineer | Data Analyst",
-  location: "Herat, Afghanistan 🇦🇫",
-  stack: ["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
-  passions: ["Clean Code", "Meaningful UI", "Problem Solving"],
-  currentlyLearning: "Backend · Data Analysis · PostgreSQL",
-  funFact: "When education was taken from me, I taught myself to code."
-};
-```
+| | |
+|---|---|
+| 👩‍💻 **Role** | Frontend Engineer · Data Analyst |
+| 📍 **Location** | Herat, Afghanistan 🇦🇫 |
+| 🛠️ **Stack** | Next.js · TypeScript · Supabase · PostgreSQL |
+| 📚 **Learning** | Backend Development · Data Analysis |
+| 💡 **Passion** | Clean Code · Meaningful UI · Problem Solving |
+| ✨ **Fun Fact** | When education was taken from me, I taught myself to code |
 
 ---
 
@@ -38,7 +36,10 @@ const Fatema = {
 
 **🗄️ Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,python,prisma" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,prisma,python" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 **🎨 Design & Tools**
 
@@ -46,12 +47,9 @@ const Fatema = {
 
 **📊 Data & Analytics**
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
-
----
-
-
